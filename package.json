@@ -1,0 +1,21 @@
+{
+  "name": "expressproject1",
+  "version": "1.0.0",
+  "description": "This is  a express JS  Basic Project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Mongo",
+    "Backend"
+  ],
+  "author": "Bishal Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
